@@ -9,9 +9,10 @@ email: zacharoula.sotiriou@ens-paris-saclay.fr
 clickable-email: false
 picture: img/profile.png
 picture-round: false
-side-by-side: false
+side-by-side: true
 pronouns: She/Her
 og-picture: https://sugaroula.github.io/img/profile.png
+github: sugaroula
 linkedin: https://www.linkedin.com/in/zacharoula-sotiriou-b6546a303?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7JX4m2BgQm%2BPeWIwwi1yZw%3D%3D
 footer:
 ---
