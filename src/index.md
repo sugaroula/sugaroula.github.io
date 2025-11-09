@@ -17,14 +17,14 @@ linkedin: https://www.linkedin.com/in/zacharoula-sotiriou-b6546a303?lipi=urn%3Al
 footer:
 ---
 
-I am a MsC student, working on Theoretical Computer Science, with a focus on Distributed Algorithms.
+I am a MsC student in Theoretical Computer Science, with a focus on Distributed Algorithms.
 
 
 # Education
 
 - I am currently on my second year of the Parisian Research Master's in Computer Science (MPRI) at ENS Paris-Saclay
-- I graduated from University of Thessaly in 2024 with my BsC in Computer Science and Biomedical Informatics
+- I graduated valedictorian from University of Thessaly in 2024 with my BsC in Computer Science and Biomedical Informatics
 
 # Internship
 
-- I conducted a distributed computing research internship at the LISN laboratory, as part of the ParSys team. I studied the fault tolerance of a mobile-agent model using volatile pheromone communication to solve the treasure hunt problem.  
+- I conducted a distributed computing research internship at the LISN laboratory in spring 2025, as part of the ParSys team. I as supervised by Janna Burman, and also collaborated with Evangelos Bampas and Joffroy Beauquier. I studied the fault tolerance of a mobile-agent model using volatile pheromone communication to solve the treasure hunt problem.  
