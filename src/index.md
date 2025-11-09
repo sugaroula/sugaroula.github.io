@@ -1,5 +1,5 @@
 ---
-title: Zacharoula Sotiriou's personal page
+title: Zacharoula Sotiriou
 author: Zacharoula Sotiriou
 shortbio: McS student in Research in Computer Science
 description-meta: McS student in Research in Computer Science
@@ -12,8 +12,7 @@ picture-round: false
 side-by-side: false
 pronouns: She/Her
 og-picture: https://sugaroula.github.io/img/profile.png
-linkedin: [https://www.linkedin.com](https://www.linkedin.com/in/zacharoula-sotiriou-b6546a303?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7JX4m2BgQm%2BPeWIwwi1yZw%3D%3D)
-
+linkedin: https://www.linkedin.com/in/zacharoula-sotiriou-b6546a303?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7JX4m2BgQm%2BPeWIwwi1yZw%3D%3D
 ---
 
 I am a MsC student, working on Theoretical Computer Science, with a focus on Distributed Algorithms.
