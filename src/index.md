@@ -13,6 +13,7 @@ side-by-side: false
 pronouns: She/Her
 og-picture: https://sugaroula.github.io/img/profile.png
 linkedin: https://www.linkedin.com/in/zacharoula-sotiriou-b6546a303?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7JX4m2BgQm%2BPeWIwwi1yZw%3D%3D
+footer:
 ---
 
 I am a MsC student, working on Theoretical Computer Science, with a focus on Distributed Algorithms.
