@@ -17,7 +17,7 @@ linkedin: https://www.linkedin.com/in/zacharoula-sotiriou-b6546a303?lipi=urn%3Al
 footer:
 ---
 
-I am a MsC student in Theoretical Computer Science, with a focus on Distributed Algorithms.
+I am a MsC student in Theoretical Computer Science, with a special focus on Distributed Algorithms.
 
 
 # Education
